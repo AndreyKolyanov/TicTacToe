@@ -1,0 +1,1 @@
+A simple game of tic-tac-toe for Android, created as a laboratory work on the subject of Mobile Computing
